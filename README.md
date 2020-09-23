@@ -10,14 +10,14 @@ TortoiseGit : [https://tortoisegit.org/](https://tortoisegit.org/)
 
 ## #下の画像のように何処をどう編集したかがわかる。
 
-![alt](diff.png)
+![alt](images/diff.png)
 
 <br>
 <br>
 
 ## また、いつ、誰が、どのファイルの、何処を、どんな編集をしたかも確認できる。
 
-![log2.png](log2.png)
+![log2.png](images/log2.png)
 
 # #では簡単なGitの使い方。
 
@@ -33,6 +33,6 @@ TortoiseGit : [https://tortoisegit.org/](https://tortoisegit.org/)
 
 ### 作業ディレクトリを決めたら、右クリックから、
 #### [ git ここにリポジトリを作成(Y)… ]を選択
-![first.png](first.png)
-![clone](clone.png)
+![first.png](images/first.png)
+![clone](images/clone.png)
 こんな画面が出る。
