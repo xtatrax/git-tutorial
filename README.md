@@ -27,6 +27,11 @@ TortoiseGit : [https://tortoisegit.org/](https://tortoisegit.org/)
 
 <br>
 
+## #当ページの上部の[ ↓ Code ] → [ HTTPS ] -> テキストボックスから、または横のボタンを押してリンクをコピー
+![alt](images/github_clone.png)  
+
+<br>
+
 ## #プロジェクトを保存する作業ディレクトリを決めましょう。
 ＊ 筆者の場合、次のディレクトリを作業場所としました。 D:\00_dev\proj\tatra_dev\document\
 ＊ あくまで、筆者の場合なので、自分の使いやすい場所を適当に選べばいいと思います。
@@ -34,5 +39,24 @@ TortoiseGit : [https://tortoisegit.org/](https://tortoisegit.org/)
 ### 作業ディレクトリを決めたら、右クリックから、
 #### [ git ここにリポジトリを作成(Y)… ]を選択
 ![first.png](images/first.png)
-![clone](images/clone.png)
+![clone](images/clone.png)  
 こんな画面が出る。
+
+<br>
+
+上記でこのリポジトリのリンクをコピーしていた場合、  
+おそらく、自動的にURLとディレクトリ名が設定されると思う。
+
+<br>
+
+でなければ、当ページ上方からリンクアドレスをコピーして、  
+URLへペーストしましょう。  
+なお、フォルダ名は自由に変えても問題ない（はず。。。？
+
+
+あとは適当にポチポチして、赤文字が出なければ成功！おめでとう！
+
+<br>
+<br>
+
+# ＃この記事は書きかけです。 更新は筆者の気分次第です。
