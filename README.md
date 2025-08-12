@@ -1,6 +1,8 @@
 # gitの使い方
 [旧版](./old/README.md)
 
+[gitの生食](git/README.md)
+
  - git自体の話
    - gitサーバーの話
  - GitHubなどのホスティングサービスの話
