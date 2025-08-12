@@ -1,15 +1,13 @@
 # gitの使い方
-
+[旧版](./old/README.md)
  - git自体の話
    - gitサーバーの話
  - GitHubなどのホスティングサービスの話
  - GitHubDesktop などのクライアント及びローカルマネージャーの話
 
-
-
  1. [そもそもgitとは](#そもそもgitとは)
- 1. [なぜ GitHub を使う？](#なぜGitHubを使う？)
-
+ 1. [なぜ GitHub を使う？](#なぜgithubを使う)
+ 1. [おすすめのGitクライアント](#おすすめのgitクライアント)
 
 
 ## そもそもgitとは
@@ -37,3 +35,10 @@ GitHub などのサービスを使わなくても、完全ローカルや、社�
 追加機能が豊富
 
 issues(問題、やる事)の管理、milestone(予定の管理)、discussion(ここはこうしたほうが、こういうのがあったら便利ではないか？など)
+
+
+# おすすめのGitクライアント
+
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+[TortoiseGit](https://tortoisegit.org/)
