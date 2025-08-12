@@ -16,6 +16,8 @@
 
 ![git-describe](./github/images/github-log-describe.png)
 
+注意：GitとGitHubは全く別物
+
 ### プログラミング以外にも使える
 
 メモや小説、その他ドキュメントの管理もできる
@@ -34,11 +36,20 @@ GitHub などのサービスを使わなくても、完全ローカルや、社�
 
 追加機能が豊富
 
-issues(問題、やる事)の管理、milestone(予定の管理)、discussion(ここはこうしたほうが、こういうのがあったら便利ではないか？など)
+issues(問題、やる事)の管理、
+
+milestone(予定の管理)、
+
+discussion(ここはこうしたほうが、こういうのがあったら便利ではないか？など)
 
 
-# おすすめのGitクライアント
+# 個人的おすすめのGitクライアント
 
-[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+[VSCode](https://code.visualstudio.com/)
 
-[TortoiseGit](https://tortoisegit.org/)
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ( VSCode 拡張機能 )
+
+[TortoiseGit](https://tortoisegit.org/)　( Win用 日本語パックのダウンロードも忘れずに )
+
+他にも様々なGitクライアントがあるので、自分にあった物を探すと良いと思います。
+
