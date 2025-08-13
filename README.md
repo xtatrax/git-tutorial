@@ -21,6 +21,12 @@
 
 注意：GitとGitHubは全く別物
 
+(pc)git <-> GitHubDesktop
+
+↕︎
+
+(GitHubサーバー)git <-> GitHub サービス
+
 ### プログラミング以外にも使える
 
 メモや小説、その他ドキュメントの管理もできる
