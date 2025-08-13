@@ -3,6 +3,8 @@
 
 [gitの生食](git/README.md)
 
+[例え話](tatoebanasi.md)
+
  - git自体の話
    - gitサーバーの話
  - GitHubなどのホスティングサービスの話
