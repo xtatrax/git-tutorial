@@ -5,6 +5,8 @@
 
 [例え話](tatoebanasi.md)
 
+[辞書](dictionary.md)
+
  - git自体の話
    - gitサーバーの話
  - GitHubなどのホスティングサービスの話
