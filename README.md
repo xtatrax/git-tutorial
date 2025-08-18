@@ -23,7 +23,7 @@
 
 ![git-describe](./github/images/github-log-describe.png)
 
-実際に見てみよう > b5f2b98dbf8db9536fb9896c80f0fa4d8e7c8449
+実際に見てみよう > [b5f2b98](b5f2b98dbf8db9536fb9896c80f0fa4d8e7c8449)
 
 注意：GitとGitHubは全く別物
 
