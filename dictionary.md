@@ -1,6 +1,8 @@
 # IT用語とかを調べるのにおすすめのサイト
 [ 「 分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/index.html)
 
+[とほほのWWW入門](https://www.tohoho-web.com/www-f.htm)
+
 [IT用語辞典 e-Words](https://e-words.jp/)
 # バージョン管理
 バージョン管理又はバージョン管理システムとは
