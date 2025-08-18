@@ -21,9 +21,7 @@
 
 バージョン管理システム = 誰が、何を、いつ、どう、変更したかを管理するツールです。
 
-![git-describe](./github/images/github-log-describe.png)
-
-[実際の](b5f2b98dbf8db9536fb9896c80f0fa4d8e7c8449)
+![git-describe](./github/images/github-log-describe.png)(b5f2b98dbf8db9536fb9896c80f0fa4d8e7c8449)
 
 注意：GitとGitHubは全く別物
 
