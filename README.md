@@ -60,11 +60,11 @@ discussion(ここはこうしたほうが、こういうのがあったら便利
 
 # 個人的おすすめのGitクライアント
 
-[VSCode](https://code.visualstudio.com/)
+[VSCode](https://code.visualstudio.com/) ( 公式日本語対応 )
 
-[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ( VSCode 拡張機能 )
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ( VSCode 拡張機能 日本語対応 )
 
-[TortoiseGit](https://tortoisegit.org/)　( Win用 日本語パックのダウンロードも忘れずに )
+[TortoiseGit](https://tortoisegit.org/)　( Win用 公式日本語対応 別途言語パックのインストールが必要 )
 
 他にも様々なGitクライアントがあるので、自分にあった物を探すと良いと思います。
 
