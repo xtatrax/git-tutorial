@@ -1,4 +1,7 @@
 # gitの使い方
+
+[参考資料に良さげ](#参考資料に良さげ)
+
 [旧版](./old/README.md)
 
 [gitの生食](git/README.md)
@@ -145,5 +148,9 @@ Desctop.ini ( Win の フォルダの見え方などが保存されているフ�
 https://github.com/sakura-editor/sakura
 
 https://github.com/microsoft/vscode
+
+# 参考資料に良さげ
+
+https://qiita.com/nanarya/items/6fbae1cb5efc3ea99eba
 
 [EOF]
