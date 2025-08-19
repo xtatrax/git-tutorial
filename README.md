@@ -140,4 +140,10 @@ LICENSE ( ライセンス,利用規約とか GitHub だと選択ツールとか�
 
 Desctop.ini ( Win の フォルダの見え方などが保存されているファイル 他所の環境固有設定を共有するのはエラーの元 )
 
+# GitHubの使い方参考リポジトリ
+
+https://github.com/sakura-editor/sakura
+
+https://github.com/microsoft/vscode
+
 [EOF]
