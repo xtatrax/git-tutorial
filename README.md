@@ -60,13 +60,15 @@ discussion(ここはこうしたほうが、こういうのがあったら便利
 
 # 個人的おすすめのGitクライアント
 
-[VSCode](https://code.visualstudio.com/) ( 公式日本語対応 )
+[VSCode](https://code.visualstudio.com/) ( 日本語公式対応 )
 
 [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ( VSCode 拡張機能 日本語対応 )
 
-[TortoiseGit](https://tortoisegit.org/)　( Win用 公式日本語対応 別途言語パックのインストールが必要 )
+[TortoiseGit](https://tortoisegit.org/)　( Win用 日本語公式対応 別途言語パックのインストールが必要 )
 
 他にも様々なGitクライアントがあるので、自分にあった物を探すと良いと思います。
+
+|壁|､・`) ぼそ。。< GitHubDesktop は 日本語ユーザーに優しくないと思う。
 
 # 最低限知っておいて欲しい機能
 
