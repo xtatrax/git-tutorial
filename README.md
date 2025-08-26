@@ -125,6 +125,9 @@ git config --(レベル) 対象 内容
    - user.email
      - commit時のメールアドレスを 内容 のものに書き換えます
 
+サンプル1 ) git config --local user.name "匿名さん"
+サンプル2 ) git config --local user.email "i.m@anony.mous"
+
 クローンしたリポジトリ毎の設定可能
 
 # 最初に追加しておいた方がいいファイル
