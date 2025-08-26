@@ -1,4 +1,7 @@
 # gitの使い方
+
+[参考資料に良さげ](#参考資料に良さげ)
+
 [旧版](./old/README.md)
 
 [gitの生食](git/README.md)
@@ -27,12 +30,11 @@
 
 注意：GitとGitHubは全く別物
 
-(pc)git <-> GitHubDesktop
-
-↕︎
-
-(GitHubサーバー)git <-> GitHub サービス
-
+```
+(pc)            git <-> Gitクライアント
+                 ↕︎
+(GitHubサーバー)  git <-> GitHub サービス
+```
 ### プログラミング以外にも使える
 
 メモや小説、その他ドキュメントの管理もできる
@@ -60,13 +62,15 @@ discussion(ここはこうしたほうが、こういうのがあったら便利
 
 # 個人的おすすめのGitクライアント
 
-[VSCode](https://code.visualstudio.com/)
+[VSCode](https://code.visualstudio.com/) ( 日本語公式対応 )
 
-[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ( VSCode 拡張機能 )
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ( VSCode 拡張機能 日本語対応 )
 
-[TortoiseGit](https://tortoisegit.org/)　( Win用 日本語パックのダウンロードも忘れずに )
+[TortoiseGit](https://tortoisegit.org/)　( Win用 日本語公式対応 別途言語パックのインストールが必要 )
 
 他にも様々なGitクライアントがあるので、自分にあった物を探すと良いと思います。
+
+|壁|､・`) ぼそ。。< GitHubDesktop は 日本語ユーザーに優しくないと思う。
 
 # 最低限知っておいて欲しい機能
 
@@ -104,6 +108,23 @@ stash
 
 fork
 
+git config --(レベル) 対象 内容
+
+ - レベル = 
+    - system 
+       - OS全体の設定(大抵)
+    - global 
+       - OSのログインユーザー毎の設定
+    - local
+       - ローカルリポジトリ毎の設定
+    - workspace
+       - ？
+ - 対象 =
+   - user.name
+     - commit時のユーザー名を 内容 のものに書き換えます
+   - user.email
+     - commit時のメールアドレスを 内容 のものに書き換えます
+
 クローンしたリポジトリ毎の設定可能
 
 # 最初に追加しておいた方がいいファイル
@@ -121,5 +142,17 @@ LICENSE ( ライセンス,利用規約とか GitHub だと選択ツールとか�
 .DS_Store ( Mac の フォルダの見え方などが保存されているファイル 他所の環境固有設定を共有するのはエラーの元 )
 
 Desctop.ini ( Win の フォルダの見え方などが保存されているファイル 他所の環境固有設定を共有するのはエラーの元 )
+
+# GitHubの使い方参考リポジトリ
+
+https://github.com/sakura-editor/sakura
+
+https://github.com/microsoft/vscode
+
+# 参考資料に良さげ
+
+https://qiita.com/nanarya/items/6fbae1cb5efc3ea99eba
+
+https://qiita.com/ktkraoichi/items/f6ad43c2da0b3136d6be
 
 [EOF]
