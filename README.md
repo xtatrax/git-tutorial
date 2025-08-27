@@ -74,27 +74,27 @@ discussion(ここはこうしたほうが、こういうのがあったら便利
 
 # 最低限知っておいて欲しい機能
 
-clone
+clone <= リポジトリの複製 (複製)
 
-pull
+pull <= リモートの変更を持ってくる、引っ張ってくる(引く)
 
-push
+push => リモートに変更を送る、押し込む(押す)
 
-fetch
+fetch <= リモートの情報を取ってくる(引き出す)
 
-commit
+commit == 変更をリポジトリに記憶する(預ける)
 
 # 知っておいて欲しい機能
 
-merge
+branch Y (支流)
+
+merge == <= ブランチなどを合流させる(合流)
 
 .gitignore
 
 SSH公開鍵
 
 diff
-
-branch
 
 log
 
