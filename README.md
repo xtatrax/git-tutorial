@@ -90,23 +90,23 @@ branch Y (支流)
 
 merge == <= ブランチなどを合流させる(合流)
 
-.gitignore
+.gitignore F 無視するファイルを設定
 
-SSH公開鍵
+SSH公開鍵 F 安全に運用するための鍵
 
-diff
+diff == 比較する
 
-log
+log == 記録
 
-git mv
+git mv == ファイル名の変更や移動(大抵の場合コマンド打つ必要あり)
 
 # 知っておくと便利かも知れない機能
 
-tag
+tag 
 
 stash
 
-fork
+fork 
 
 git config --(レベル) 対象 内容
 
