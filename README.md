@@ -13,7 +13,7 @@
  - git自体の話
    - gitサーバーの話
  - GitHubなどのホスティングサービスの話
- - GitHubDesktop などのクライアント及びローカルマネージャーの話
+ - GitHubDesktop などの[クライアント][]及びローカルマネージャーの話
 
  1. [そもそもgitとは](#そもそもgitとは)
  1. [なぜ GitHub を使う？](#なぜgithubを使う)
@@ -22,7 +22,7 @@
 
 ## そもそもgitとは
 
-バージョン管理システム = 誰が、何を、いつ、どう、変更したかを管理するツールです。
+[バージョン管理][]システム = 誰が、何を、いつ、どう、変更したかを管理するツールです。
 
 ![git-describe](./github/images/github-log-describe.png)
 
@@ -31,7 +31,7 @@
 注意：GitとGitHubは全く別物
 
 ```
-(pc)            git <-> Gitクライアント
+(pc)            git <-> Git[クライアント][]
                  ↕︎
 (GitHubサーバー)  git <-> GitHub サービス
 ```
@@ -68,7 +68,7 @@ discussion(ここはこうしたほうが、こういうのがあったら便利
 
 [TortoiseGit](https://tortoisegit.org/)　( Win用 日本語公式対応 別途言語パックのインストールが必要 )
 
-他にも様々なGitクライアントがあるので、自分にあった物を探すと良いと思います。
+他にも様々なGit[クライアント][]があるので、自分にあった物を探すと良いと思います。
 
 |壁|､・`) ぼそ。。< GitHubDesktop は 日本語ユーザーに優しくないと思う。
 
@@ -163,4 +163,8 @@ https://qiita.com/ktkraoichi/items/f6ad43c2da0b3136d6be
 
 https://github.com/git/git
 
+
+
+[クライアント]:./dictionary.md#クライアント
+[バージョン管理]:./dictionary.md#バージョン管理
 [EOF]
